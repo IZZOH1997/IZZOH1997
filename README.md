@@ -41,7 +41,7 @@ I'm a Full-Stack Developer from Nairobi, Kenya. I'm passionate about building be
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=IZZOH1997&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?IZZOH1997&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dracula&hide_border=true" />
